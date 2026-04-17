@@ -17,7 +17,7 @@ function Home() {
         <br />
       </div>
       <div className="formCheck">Check the Forms Below:</div>
-      <div className="flex justify-evenly space-x-6 mt-2">
+      <div className="flex justify-evenly gap-6 mt-2">
         <Link
           to="/Form1"
           className="formlinks  bg-purple-400 hover:bg-purple-800"
